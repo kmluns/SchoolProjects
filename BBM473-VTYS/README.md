@@ -1,4 +1,4 @@
-#BBM 473 - VTYS - Database Management Systems Lab. Term Project
+# BBM 473 - VTYS - Database Management Systems Lab. Term Project
 
 With @<a href="https://github.com/mervearsln"> Merve Arslan </a>
 
